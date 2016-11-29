@@ -1,0 +1,8 @@
+[package]
+name = "sandbox"
+version = "0.1.0"
+authors = ["ithinuel <ithinuel@gmail.com>"]
+
+[dependencies]
+num_cpus = "1.1.0"
+num = "0.1.36"
